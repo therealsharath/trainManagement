@@ -1,0 +1,68 @@
+--------------------------------------------------------------------------
+                                     Train Details
+--------------------------------------------------------------------------
+
+Train Number: 12345
+Estimated time of arrival: 11:00
+Estimated time of departure: 12:00
+From: Asheville
+To: Urbana
+Via: Ada
+Platform Number: 10
+Fare: 5600
+Status: ONT
+
+
+Train Number: 23456
+Estimated time of arrival: 21:00
+Estimated time of departure: 23:00
+From: Cambridge
+To: Seward
+Via: Ava
+Platform Number: 7
+Fare: 5300
+Status: DLY
+
+
+Train Number: 34567
+Estimated time of arrival: 14:00
+Estimated time of departure: 14:30
+From: Vancouver
+To: Oxford
+Via: Ono
+Platform Number: 5
+Fare: 5800
+Status: DLY
+
+
+Train Number: 21345
+Estimated time of arrival: 15:00
+Estimated time of departure: 16:00
+From: Nashville
+To: Monroe
+Via: Oso
+Platform Number: 6
+Fare: 4900
+Status: ONT
+
+
+Train Number: 13456
+Estimated time of arrival: 17:00
+Estimated time of departure: 17:15
+From: Jamestown
+To: Denver
+Via: Utu
+Platform Number: 9
+Fare: 6000
+Status: ONT
+
+
+Train Number: 1234
+Estimated time of arrival: 15aa
+Estimated time of departure: booty
+From: from
+To: to
+Via: sky?
+Platform Number: 9
+Fare: 6000
+Status: "
